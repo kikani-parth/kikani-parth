@@ -79,6 +79,9 @@
   </a>
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/kikani-parth/kikani-parth/output/snake.svg" alt="Snake animation" />
 
+###
 
