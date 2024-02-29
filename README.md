@@ -3,13 +3,13 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 *   🎓  I'm an IT Engineering student at Metopolia University of Applied Science.
-*   🌍  I'm based in Finland
+*   🌍  I'm based in Helsinki, Finland
 *   🧠  I'm currently learning React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 *   ⚡  Fun fact: The term **"debugging"** originated from finding a real moth in a computer relay.
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="35" width="35" /> My Tech Stack:
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" /> My Tech Stack:
 
 ###
 <img align="right" height="270" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
@@ -79,7 +79,7 @@
 
 ---
 
-### My Contributions
+### <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="30" width="60">My Contributions:
 <img src="https://raw.githubusercontent.com/kikani-parth/kikani-parth/output/github-snake.svg" alt="Snake animation" />
 
 
