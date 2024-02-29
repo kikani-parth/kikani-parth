@@ -4,7 +4,7 @@
 
 *   🎓  I'm an IT Engineering student at Metopolia University of Applied Science.
 *   🌍  I'm based in Helsinki, Finland.
-*   🧠  I'm currently learning React. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+*   🧠  I'm currently learning React & Next.js. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 *   ⚡  Fun fact: The term **"debugging"** originated from finding a real moth in a computer relay.
 
 ---
