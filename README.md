@@ -11,10 +11,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" /> My Tech Stack:
 
-###
 <img align="right"  width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -55,6 +52,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
 </div>
+<br>
 
 ###
 
@@ -74,6 +72,7 @@
   <a href="https://discordapp.com/users/504971080352530442" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
+<br>
 
 ###
 
