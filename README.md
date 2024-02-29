@@ -9,10 +9,9 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="35" width="35"> My Tech Stack:
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="35" width="35" /> My Tech Stack:
 
 ###
-<br>
 <img align="right" height="270" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 
 ###
@@ -61,8 +60,7 @@
 
 ---
 
-<h3 align="left">Socials</h3>
-
+### Socials:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kikani-parth/" target="_blank">
@@ -79,8 +77,9 @@
   </a>
 </div>
 
-###
+---
 
+### My Contributions
 <img src="https://raw.githubusercontent.com/kikani-parth/kikani-parth/output/github-snake.svg" alt="Snake animation" />
 
-###
+
