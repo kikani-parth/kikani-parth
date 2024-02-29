@@ -81,6 +81,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kikani-parth/kikani-parth/output/snake.svg" alt="Snake animation" />
-
+![snake animation](https://github.com/<kikani-parth>/<kikani-parth>/blob/output/github-contribution-grid-snake2.svg)
 ###
