@@ -5,7 +5,7 @@
 *   🎓  I'm an IT Engineering student at Metopolia University of Applied Science.
 *   🌍  I'm based in Helsinki, Finland.
 *   🧠  I'm currently learning React & Next.js. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-*   ⚡  Fun fact: **90%** of the world's data was created in the last **two** years.
+*   ⚡  Fun fact: The word **"Typewriter"** is the longest word you can type using only one row of the keyboard.
 
 ---
 
