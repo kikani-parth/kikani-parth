@@ -7,6 +7,17 @@
 *   🧠  I'm currently learning React. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 *   ⚡  Fun fact: The word **"Typewriter"** is the longest word you can type using only one row of the keyboard.
 
+### <img src="https://github.com/kikani-parth/kikani-parth/blob/main/img/social-media-jumping.gif" height="40" width="50"/> Socials:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kikani-parth/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"   alt="linkedin logo"  /></a>
+  <a href="https://twitter.com/kikani_parth02" target="_blank">
+    <img src="https://github.com/kikani-parth/kikani-parth/blob/main/img/x_logo.png" width="40" height="35" alt="twitter logo" /></a>
+  <a href="mailto:parthkikani02@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+</div>
+
 ---
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" /> My Tech Stack:
@@ -56,23 +67,6 @@
 
 ###
 
----
-
-### <img src="https://github.com/kikani-parth/kikani-parth/blob/main/img/social-media-jumping.gif" height="50" width="60"/> Socials:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kikani-parth/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"   alt="linkedin logo"  /></a>
-  <a href="https://twitter.com/kikani_parth02" target="_blank">
-    <img src="https://github.com/kikani-parth/kikani-parth/blob/main/img/x_logo.png" width="40" height="35" alt="twitter logo" /></a>
-  <a href="mailto:parthkikani02@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a href="https://www.instagram.com/kikani_parth/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-  <a href="https://discordapp.com/users/504971080352530442" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-</div>
-<br>
 
 ###
 
