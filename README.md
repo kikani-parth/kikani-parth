@@ -4,7 +4,7 @@
 
 *   🎓  I'm an IT Engineering student at Metopolia University of Applied Science.
 *   🌍  I'm based in Helsinki, Finland.
-*   🧠  I'm currently learning React. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+*   🧠  I'm currently learning Typescript. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 *   ⚡  Fun fact: The word **"Typewriter"** is the longest word you can type using only one row of the keyboard.
 
 ### <img src="https://github.com/kikani-parth/kikani-parth/blob/main/img/social-media-jumping.gif" height="40" width="50"/> Socials:
