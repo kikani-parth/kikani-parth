@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-*   🎓  I'm an IT Engineering student at Metopolia University of Applied Science.
+*   🎓  I'm a recent IT Engineering graduate from Metopolia University of Applied Sciences.
 *   🌍  I'm based in Helsinki, Finland.
 *   🧠  I'm currently learning AWS cloud computing. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 *   ⚡  Fun fact: The word **"Typewriter"** is the longest word you can type using only one row of the keyboard.
